@@ -1,6 +1,6 @@
 # Kinetic27&nbsp;<img src="/sans.gif" width="30px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKinetic27%2FKinetic27)](https://hits.seeyoufarm.com) 
 
-### Hello world!&nbsp;<img src="/world.gif" width="24px">
+### Hello world!&nbsp;<img src="/earth.gif" width="24px">
 
 <p>
   <em>
