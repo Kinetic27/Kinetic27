@@ -8,9 +8,9 @@
 
 <p>
   <em>
-    I am <b>noob</b> student developer. 👨‍💻 <br>
-    I like to <b>develop</b> many interesting things. 🎁 <br>
-    Seeking <b>software</b> that can be <b>useful</b>✨ and <b>convenient</b>🎉  for someone to use, and many things to develop in a fun way. 
+    저는 <b>뉴비</b> 학생 개발자입니다. 👨‍💻 <br>
+    다양한 재미있는것들을 <b>개발</b>하는걸 좋아합니다. 🎁 <br>
+    개발하기 재미있고 <b>유용하고</b>✨ <b>편리한</b>🎉 소프트웨어를 만들고싶습니다. 
   </em>  
 </p>
 
