@@ -34,7 +34,7 @@
 ### Contacts 📫
 
 * Github Repo Issue 
-* Twitter DM: @dev_kinetic
+* Discord DM: factorio.com
 * Email: aheui@kakao.com
 
   <!--<div align=center>-->
