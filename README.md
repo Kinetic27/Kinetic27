@@ -5,7 +5,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Kinetic's%20Github&fontSize=40)
 
 ### Hello world!&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="25" height="25%">
-202135850 HongSeokJin
 <p>
   <em>
     ☕ 마신 <b>커피<b> 만큼 코드를 뽑아냅니다. 👨‍💻 <br>
