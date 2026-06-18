@@ -1,6 +1,6 @@
 # SeokJin Hong (Kinetic27)&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/sans.gif" width="30" height="30%">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Kinetic's%20Github&fontSize=40)
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Kinetic's%20Github&fontSize=40) -->
 
 ### Hello world!&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="25" height="25%">
 <p>
