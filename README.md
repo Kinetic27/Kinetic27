@@ -72,7 +72,6 @@ Tools              : Linux, SSH, Git, Jupyter, CUDA/GPU workstation workflows
 
 ### Contacts 📫
 
-* Github Repo Issue
 * Discord DM: factorio.com
 * Email: aheui@kakao.com
 
