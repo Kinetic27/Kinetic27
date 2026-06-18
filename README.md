@@ -7,7 +7,8 @@
   <em>
     ☕ 마신 <b>커피</b> 만큼 코드를 뽑아냅니다. 👨‍💻 <br>
     B.S. candidate in Artificial Intelligence at Gachon University. <br>
-    Undergraduate researcher interested in computer vision and real-time perception systems.
+    Undergraduate researcher interested in computer vision and real-time perception systems. <br>
+    ORCID: <a href="https://orcid.org/0009-0003-3938-1832">0009-0003-3938-1832</a>
   </em>
 </p>
 
@@ -42,7 +43,9 @@ Tools              : Linux, SSH, Git, Jupyter, CUDA/GPU workstation workflows
 
 ### Publication / Manuscript 📄
 
-* **Layer-Wise Query Selection to Eliminate Redundant Queries in DETR** — *Applied Sciences*, 2025. [DOI](https://doi.org/10.3390/app15147686) · Co-first author.
+* **Layer-Wise Query Selection to Eliminate Redundant Queries in DETR**  
+  *Applied Sciences*, 2025-07-09. DOI: [10.3390/app15147686](https://doi.org/10.3390/app15147686)  
+  Contributors: Seok-Jin Hong, Chan-Young Choi, Sang-Woong Lee · Co-first author.
 * **Asynchronous Slicing Accelerated Pipeline for Real-time High-Resolution Small Bird Flock Monitoring** — under peer review.
 
 ### Online Judge 💻
