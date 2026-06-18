@@ -29,12 +29,12 @@ Computer Vision · Object Detection · Efficient / Lightweight Detection · Real
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-```text
-Deep Learning / CV : PyTorch, YOLO series, DETR-style object detection, TensorRT-FP16, OpenCV
-Mobile / Applied   : Android, Kotlin, CameraX, TFLite/LiteRT, TTS/haptic feedback
-Research Workflow  : object-detection benchmarking, ablation studies, speed-accuracy analysis
-Tools              : Linux, SSH, Git, Jupyter, CUDA/GPU workstation workflows
-```
+I mostly build and experiment with vision models and practical perception systems:
+
+* training and evaluating object detectors with **PyTorch**, **YOLO**, and **DETR-style** architectures
+* optimizing high-resolution / small-object detection pipelines with **OpenCV**, **TensorRT-FP16**, and GPU workflows
+* building Android perception prototypes with **Kotlin**, **CameraX**, **TFLite/LiteRT**, TTS, and haptic feedback
+* running experiments on Linux workstations with Git, SSH, Jupyter, and CUDA-based tooling
 
 ### Research / Team Projects 🧪
 
