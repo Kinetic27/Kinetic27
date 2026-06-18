@@ -1,51 +1,38 @@
+# SeokJin Hong (`Kinetic27`)
 
+Computer science student interested in **computer vision**, **machine learning systems**, and small tools that solve real problems.
 
-# SeokJin Hong (Kinetic27)&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/sans.gif" width="30" height="30%">
+- Currently organizing my public GitHub profile for research / graduate-school applications.
+- Main interests: object detection, multimodal learning, data tooling, web/backend utilities, and automation.
+- Blog: [kinetic27.github.io](https://kinetic27.github.io/)
+- BOJ / solved.ac: [kinetic27](https://solved.ac/profile/kinetic27)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Kinetic's%20Github&fontSize=40)
+## Selected projects
 
-### Hello world!&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="25" height="25%">
-<p>
-  <em>
-    ☕ 마신 <b>커피<b> 만큼 코드를 뽑아냅니다. 👨‍💻 <br>
-  </em>  
-</p>
+| Project | Stack | Notes |
+| --- | --- | --- |
+| [`SQ-DETR`](https://github.com/Kinetic27/SQ-DETR) | Python, PyTorch, Jupyter | DETR-style object detection research/experiment repository. |
+| [`Bird_clustering`](https://github.com/Kinetic27/Bird_clustering) | Python, Streamlit | Interactive bird-feature clustering and flock analysis playground. |
+| [`url-shorter`](https://github.com/Kinetic27/url-shorter) | TypeScript, Node.js, PostgreSQL | Self-cleaning URL shortener with safe redirect confirmation and tests. |
+| [`qr-code-generator`](https://github.com/Kinetic27/qr-code-generator) | TypeScript, React, Vite | QR-code generator with unit/e2e test setup. |
+| [`kinetic-pc-wol-monitor`](https://github.com/Kinetic27/kinetic-pc-wol-monitor) | Lua, SmartThings Edge | LAN driver for monitoring PC status and Wake-on-LAN control. |
+| [`PLTI`](https://github.com/Kinetic27/PLTI) | Kotlin | APPLAY - Gachon University central academic club hackathon 1st-place project. Archived as an achievement record. |
 
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true)
-[![Kinetic27's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kinetic27&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kinetic27)
+## Older public records
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/Kinetic27"
-  width="600"
-  height="300"
-/>
-</a>
+Some older school, hackathon, and early-learning projects are intentionally kept public but archived. They are historical records, not actively maintained projects.
 
-### Online Judge 💻
+## Online judge
 
-* BOJ: [Kinetic27](http://icpc.me/kinetic27)
-  * solvedac: [Kinetic27](https://solved.ac/profile/kinetic27)
-  
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/kinetic27)
 
-<!--
-### Project ⚡
+## GitHub stats
 
-* Development Diary Blog([blog](https://kinetic27.github.io))
-* [Unknown to Wellknown](https://github.com/justiceHui/Unknown-To-Wellknown): Advanced Algorithm Introduction
-* [814Solver](https://github.com/kimjg1119/814Solver): [BOJ 18789 814-2](https://www.acmicpc.net/problem/18789) solver using Genetic Algorithm
--->
+![Kinetic27's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinetic27&hide_border=true&layout=compact)](https://github.com/Kinetic27)
 
-### Contacts 📫
+## Contact
 
-* Github Repo Issue 
-* Discord DM: factorio.com
-* Email: aheui@kakao.com
-
-  <!--<div align=center>-->
-  
-[![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://kinetic27.github.io/) 
-
-  
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
+- GitHub Issues / Discussions
+- Email: aheui@kakao.com
+- Discord: factorio.com
