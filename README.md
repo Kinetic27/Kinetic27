@@ -73,7 +73,7 @@ Tools              : Linux, SSH, Git, Jupyter, CUDA/GPU workstation workflows
 ### Contacts 📫
 
 * Discord DM: factorio.com
-* Email: aheui@kakao.com
+* Email: kinetic27@gachon.ac.kr / aheui@kakao.com
 
 [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://kinetic27.github.io/)
 
