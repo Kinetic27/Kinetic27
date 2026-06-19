@@ -42,7 +42,6 @@ I mostly build and experiment with vision models and practical perception system
 * [ASAP-Bird-Detection](https://github.com/Kinetic27/ASAP-Bird-Detection): asynchronous slicing pipeline for real-time high-resolution small-bird detection.
 * [SmartMedia-YOLO26-Small-Object-Experiments](https://github.com/Kinetic27/SmartMedia-YOLO26-Small-Object-Experiments): official YOLO26-family small-object detection ablation experiments.
 * [VIA-Safe-Crosswalk](https://github.com/25-p-project-team-6/VIA-Safe-Crosswalk): Android assistive crosswalk guidance app using CameraX, on-device traffic-light detection, TTS, and haptic feedback.
-* [Graduation-YOLO-Traffic-Signal-Detection](https://github.com/25-p-project-team-6/Graduation-YOLO-Traffic-Signal-Detection): YOLO-based traffic-signal detector training/export utilities for the assistive crosswalk project.
 
 ### Publication / Manuscript 📄
 
