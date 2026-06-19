@@ -8,7 +8,7 @@
     ☕ 마신 <b>커피</b> 만큼 코드를 뽑아냅니다. 👨‍💻 <br>
     B.S. candidate in Artificial Intelligence at Gachon University. <br>
     Undergraduate researcher interested in computer vision and real-time perception systems. <br>
-    ORCID: <a href="https://orcid.org/0009-0003-3938-1832">0009-0003-3938-1832</a>
+    <!-- ORCID: <a href="https://orcid.org/0009-0003-3938-1832">0009-0003-3938-1832</a> -->
   </em>
 </p>
 
