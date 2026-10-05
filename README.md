@@ -1,20 +1,12 @@
 # SeokJin Hong (Kinetic27)&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/sans.gif" width="30" height="30%">
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Kinetic's%20GitHub&fontSize=40) -->
+Research Intern at **EMI Lab, Korea University**, and a B.S. candidate in Artificial Intelligence at **Gachon University**.
 
-### Hello world!&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="25" height="25%">
-<p>
-  <em>
-    ☕ 마신 <b>커피</b> 만큼 코드를 뽑아냅니다. 👨‍💻 <br>
-    B.S. candidate in Artificial Intelligence at Gachon University. <br>
-    Undergraduate researcher interested in computer vision and real-time perception systems. <br>
-    <!-- ORCID: <a href="https://orcid.org/0009-0003-3938-1832">0009-0003-3938-1832</a> -->
-  </em>
-</p>
+I am interested in **long video understanding** and **efficient visual perception**. My research background includes efficient object detection and real-time high-resolution perception systems.
 
 ### Interests 🔭
 
-Computer Vision · Object Detection · Efficient / Lightweight Detection · Real-Time High-Resolution Vision Systems · Small Object Detection · Robust & Multimodal Perception
+Long Video Understanding · Computer Vision · Efficient Object Detection · Real-Time High-Resolution Perception · Multimodal Perception
 
 ### Tech Stack 🛠️
 
@@ -29,7 +21,7 @@ Computer Vision · Object Detection · Efficient / Lightweight Detection · Real
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-I mostly build and experiment with vision models and practical perception systems:
+My hands-on experience includes:
 
 * training and evaluating object detectors with **PyTorch**, **YOLO**, and **DETR-style** architectures
 * optimizing high-resolution / small-object detection pipelines with **OpenCV**, **TensorRT-FP16**, and GPU workflows
@@ -40,7 +32,7 @@ I mostly build and experiment with vision models and practical perception system
 
 * [SQ-DETR](https://github.com/Kinetic27/SQ-DETR): DETR-style object detection research code related to layer-wise query selection and efficient detection.
 * [ASAP-Bird-Detection](https://github.com/Kinetic27/ASAP-Bird-Detection): asynchronous slicing pipeline for real-time high-resolution small-bird detection.
-* [SmartMedia-YOLO26-Small-Object-Experiments](https://github.com/Kinetic27/SmartMedia-YOLO26-Small-Object-Experiments): official YOLO26-family small-object detection ablation experiments.
+* [SmartMedia-YOLO26-Small-Object-Experiments](https://github.com/Kinetic27/SmartMedia-YOLO26-Small-Object-Experiments): small-object detection ablation experiments using YOLO26-family models.
 * [VIA-Safe-Crosswalk](https://github.com/25-p-project-team-6/VIA-Safe-Crosswalk): Android assistive crosswalk guidance app using CameraX, on-device traffic-light detection, TTS, and haptic feedback.
 
 ### Publication / Manuscript 📄
